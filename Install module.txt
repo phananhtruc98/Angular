@@ -1,0 +1,8 @@
+install module
+cd src\app 
+ng g module customer --routing
+
+
+install component 
+cd src\app\customer
+ng g component customerList

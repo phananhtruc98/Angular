@@ -1,0 +1,2 @@
+open CMD at address bar of folder
+tap " code . "

@@ -1,0 +1,18 @@
+
+download and install this: https://nodejs.org/en/download/
+
+run cmd with administrator: 
+
+node -v
+
+npm -v 
+
+check if it exists
+
+install angular: npm install --global @angular/cli@6.1.2
+
+check: ng -v
+
+Step 1 : Go to package.json, package-lock and modify "rxjs": "^6.0.0" to "rxjs": "6.0.0"
+
+Step 2 Run npm update in your project.
